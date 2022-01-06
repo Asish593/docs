@@ -1,4 +1,4 @@
----
++ = - .---
 title: Creating and highlighting code blocks
 intro: Share samples of code with fenced code blocks and enabling syntax highlighting.
 redirect_from:
@@ -10,7 +10,7 @@ versions:
   ghae: '*'
   ghec: '*'
 shortTitle: Create code blocks
----
++ = - .---
 
 ## Fenced code blocks
 
